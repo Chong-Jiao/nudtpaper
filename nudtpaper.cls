@@ -405,7 +405,7 @@ gbnamefmt=lowercase,gbpub=false]{biblatex}%
   \fi
 }
 \newcommand\cabstractname{摘\hspace{1em}要}
-\newcommand\eabstractname{ABSTRACT}
+\newcommand\eabstractname{Abstract}
 \newcommand\ckeywordsname{关键词}
 \newcommand\ckeywords[1]{{\hei\xiaosi \ckeywordsname：#1}}
 \newcommand\ekeywordsname{Key Words}
